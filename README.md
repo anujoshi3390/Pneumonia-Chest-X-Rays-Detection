@@ -1,1 +1,4 @@
 Pneumonia is an infection that affects one or both lungs by causing the air sacs, or alveoli, of the lungs to fill up with fluid or pus. Traditionally, pneumonia detection hinges on the examination of chest X-ray radiographs, a labor-intensive process conducted by highly skilled specialists. This method often results in discordant interpretations among radiologists. Leveraging the power of deep learning techniques (convolutional neural networks), we have developed a computational approach for the detection of pneumonia regions.
+
+
+![Unknown](https://github.com/user-attachments/assets/7d531dda-90a6-46cb-861c-aab2a25958a4)
